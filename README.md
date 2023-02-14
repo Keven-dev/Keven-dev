@@ -1,6 +1,6 @@
-### Hi th  ere, bem vindo!
+ Hi th  er, Meu Nome  é Keven. Bem vindo(a)!
 
-- Técnico em Desenvolvimento de Sistemas 2/3  
+- Técnico em Desenvolvimento de Sisteas 3/3  
 - Estudando Programação 
 
 <div align="center">
